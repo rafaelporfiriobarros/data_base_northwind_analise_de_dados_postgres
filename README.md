@@ -25,3 +25,5 @@ O banco de dados Northwind contém as seguintes tabelas principais:
 - **Suppliers** - Fornecedores dos produtos
 - **Categories** - Categorias dos produtos
 
+![northwind-diagram](images/northwind-er-diagram.png)
+
